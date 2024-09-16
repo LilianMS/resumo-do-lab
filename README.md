@@ -6,16 +6,16 @@ Conteúdo indicado para quem é novo nesse campo ou deseja revisar os fundamento
 ## Índice
 
 1. [O que é Computação em Nuvem?](#o-que-é-computação-em-nuvem-%EF%B8%8F)
-2. [Modelos de Serviço](#modelos-de-serviço-o)
+2. [Modelos de Serviço](#modelos-de-serviço-)
    - [Infraestrutura como Serviço (IaaS)](#infraestrutura-como-serviço-iaas)
    - [Plataforma como Serviço (PaaS)](#plataforma-como-serviço-paas)
    - [Software como Serviço (SaaS)](#software-como-serviço-saas)
-3. [Modelos de Implantação](#modelos-de-implantação)
+3. [Modelos de Implantação](#modelos-de-implantação-)
    - [Nuvem Pública](#nuvem-pública)
    - [Nuvem Privada](#nuvem-privada)
    - [Nuvem Híbrida](#nuvem-híbrida)
-4. [Vantagens da Computação em Nuvem](#vantagens-da-computação-em-nuvem)
-5. [Desafios e Considerações](#desafios-e-considerações)
+4. [Vantagens da Computação em Nuvem](#vantagens-da-computação-em-nuvem-)
+5. [Desafios e Considerações](#desafios-e-considerações-)
 6. [Conclusão](#conclusão)
 
 ## O que é Computação em Nuvem? 😶‍🌫️
