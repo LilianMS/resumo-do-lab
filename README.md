@@ -15,7 +15,7 @@ Conteúdo indicado para quem é novo nesse campo ou deseja revisar os fundamento
    - [Nuvem Privada](#nuvem-privada)
    - [Nuvem Híbrida](#nuvem-híbrida)
 4. [Vantagens da Computação em Nuvem](#vantagens-da-computação-em-nuvem-)
-5. [Desafios e Considerações](#desafios-e-considerações-)
+5. [Desafios e Considerações](#desafios-e-considerações-%EF%B8%8F)
 6. [Conclusão](#conclusão)
 
 ## O que é Computação em Nuvem? 😶‍🌫️
