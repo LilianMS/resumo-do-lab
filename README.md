@@ -5,7 +5,7 @@ Conteúdo indicado para quem é novo nesse campo ou deseja revisar os fundamento
 
 ## Índice
 
-1. [O que é Computação em Nuvem?](#o-que-é-computação-em-nuvem)
+1. [O que é Computação em Nuvem?](#o-que-é-computação-em-nuvem-%EF%B8%8F)
 2. [Modelos de Serviço](#modelos-de-serviço)
    - [Infraestrutura como Serviço (IaaS)](#infraestrutura-como-serviço-iaas)
    - [Plataforma como Serviço (PaaS)](#plataforma-como-serviço-paas)
