@@ -72,6 +72,10 @@ Os serviços de nuvem oferecem uma ampla gama de soluções para atender às nec
 - **Google Cloud Storage:** Armazenamento de objetos de dados com alta disponibilidade e escalabilidade.
 - **Microsoft Azure Blob Storage:** Solução para armazenar grandes quantidades de dados não estruturados.
 
+___________
+Para mais informações sobre o modelo de responsabilidade compartilhada, confira o [Modelo de Responsabilidade Compartilhada](Modelo-Responsabilidade-Compartilhada.md)
+___________
+
 ## Referências e Recursos Adicionais
 
 Para aprender mais sobre os serviços de nuvem da Microsoft e como eles podem ajudar a sua organização, consulte os seguintes recursos:
