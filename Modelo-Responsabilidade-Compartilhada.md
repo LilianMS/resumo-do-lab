@@ -4,7 +4,7 @@ O modelo de responsabilidade compartilhada é um conceito crucial na computaçã
 
 ## O que é o Modelo de Responsabilidade Compartilhada?
 
-![Modelo de Responsabilidade Compartilhada](assets/modelo-responsabilidade-compartilhada.png)
+![Modelo de Responsabilidade Compartilhada](imagens/modelo-responsabilidade-compartilhada.png)
 
 O modelo de responsabilidade compartilhada divide as responsabilidades de segurança e gerenciamento entre o provedor de nuvem e o cliente. Em geral, o provedor é responsável pela segurança da infraestrutura subjacente, enquanto o cliente é responsável pela segurança dos dados e aplicativos que implementa na nuvem.
 
