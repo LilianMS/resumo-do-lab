@@ -79,5 +79,19 @@ A computação em nuvem é a entrega de serviços de computação, incluindo ser
 
 A computação em nuvem oferece uma ampla gama de benefícios e oportunidades, mas também apresenta desafios que devem ser cuidadosamente gerenciados. Compreender os conceitos básicos e escolher o modelo certo para suas necessidades pode ajudar a maximizar o valor e a eficiência dos serviços em nuvem.
 
-Para mais informações, consulte a [documentação oficial](https://cloud.google.com/docs) ou explore os recursos dos principais provedores de nuvem.
+
+___________________________
+
+## Referências e Recursos Adicionais
+
+Para aprender mais sobre os serviços de nuvem da Microsoft e como eles podem ajudar a sua organização, consulte os seguintes recursos:
+
+- **[Microsoft Azure](https://azure.microsoft.com)**
+  - Explore a ampla gama de serviços oferecidos pelo Azure, incluindo IaaS, PaaS, SaaS, e muito mais.
+- **[Documentação do Azure](https://docs.microsoft.com/azure)**
+  - Acesse tutoriais, guias e a documentação detalhada para ajudá-lo a começar com os serviços do Azure.
+
+---
+
+*Última atualização: Setembro de 2024*
 
