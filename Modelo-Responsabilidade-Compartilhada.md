@@ -1,4 +1,4 @@
-# Modelo Comparativo de Responsabilidade Compartilhada: IaaS, PaaS e SaaS no Azure
+# Modelo de Responsabilidade Compartilhada: IaaS, PaaS e SaaS no Azure
 
 O modelo de responsabilidade compartilhada é um conceito crucial na computação em nuvem que define a divisão de responsabilidades entre o provedor de serviços de nuvem e o cliente. A seguir, exploramos como essa responsabilidade é distribuída em três principais modelos de serviços de nuvem — IaaS, PaaS e SaaS — utilizando a Microsoft Azure como exemplo.
 
